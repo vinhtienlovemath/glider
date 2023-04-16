@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/glider/static/css/main.4dc5ba46.css",
-    "main.js": "/glider/static/js/main.c03d7b39.js",
+    "main.css": "/glider/static/css/main.c9942624.css",
+    "main.js": "/glider/static/js/main.756c8d7c.js",
     "static/js/787.385268d3.chunk.js": "/glider/static/js/787.385268d3.chunk.js",
-    "static/media/pizzaLeft.jpg": "/glider/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
-    "static/media/vegan.jpg": "/glider/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
-    "static/media/pizza.jpeg": "/glider/static/media/pizza.21a1098fa87e28d80f37.jpeg",
-    "static/media/multiplePizzas.jpeg": "/glider/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
-    "static/media/pizzaLogo.png": "/glider/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
-    "static/media/expensive.jpg": "/glider/static/media/expensive.6449ceefce083d18dfef.jpg",
-    "static/media/pepperoni.jpg": "/glider/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
-    "static/media/pineapple.jpg": "/glider/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
-    "static/media/margherita.jpg": "/glider/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
-    "static/media/pedrotechspecial.jpg": "/glider/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "static/media/GliderBackgroundFull.png": "/glider/static/media/GliderBackgroundFull.454ff8767621b5682e3f.png",
+    "static/media/GliderBackground.png": "/glider/static/media/GliderBackground.00d636b0da0387748352.png",
+    "static/media/PVT.jpg": "/glider/static/media/PVT.988877b55c5a667452b9.jpg",
+    "static/media/GliderLogo.png": "/glider/static/media/GliderLogo.3e00a0d87c49bdbac1d6.png",
+    "static/media/VNTA.jpg": "/glider/static/media/VNTA.f91fbb6703b359140ec2.jpg",
+    "static/media/GliderAbout.jpg": "/glider/static/media/GliderAbout.195f1939271855ec91a4.jpg",
+    "static/media/HA.jpg": "/glider/static/media/HA.41a5553d3bd801204007.jpg",
+    "static/media/TMD.jpg": "/glider/static/media/TMD.5baca2f45e1990a7b80c.jpg",
+    "static/media/NDV.jpg": "/glider/static/media/NDV.1f35a4452c1210b81c01.jpg",
     "index.html": "/glider/index.html",
-    "main.4dc5ba46.css.map": "/glider/static/css/main.4dc5ba46.css.map",
-    "main.c03d7b39.js.map": "/glider/static/js/main.c03d7b39.js.map",
+    "main.c9942624.css.map": "/glider/static/css/main.c9942624.css.map",
+    "main.756c8d7c.js.map": "/glider/static/js/main.756c8d7c.js.map",
     "787.385268d3.chunk.js.map": "/glider/static/js/787.385268d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dc5ba46.css",
-    "static/js/main.c03d7b39.js"
+    "static/css/main.c9942624.css",
+    "static/js/main.756c8d7c.js"
   ]
 }
